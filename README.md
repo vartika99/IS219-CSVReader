@@ -1,0 +1,2 @@
+[![Coverage Status](https://coveralls.io/repos/github/vartika99/IS219-CSVReader/badge.svg?branch=master)](https://coveralls.io/github/vartika99/IS219-CSVReader?branch=master)
+[![Build Status](https://travis-ci.org/vartika99/IS219-CSVReader.svg?branch=master)](https://travis-ci.org/vartika99/IS219-CSVReader)
